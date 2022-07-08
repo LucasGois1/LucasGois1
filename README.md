@@ -28,7 +28,4 @@ It's easy for me to learn new technologies and programming languages, I'm passio
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 
 <br>
-  
-![Stats Overview](https://raw.githubusercontent.com/lucasgois1/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/lucasgois1/github-stats-transparent/output/generated/languages.svg)
 
