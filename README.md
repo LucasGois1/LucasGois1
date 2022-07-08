@@ -4,8 +4,6 @@
 It's easy for me to learn new technologies and programming languages, I'm passionate about my career and my hobby is solving problems and building solutions! My main stack is backend development but my learning speed allows me to work on basically any challenge that comes my way, fronted or mobile, no matter the problem I will always be able to overcome it!. 
 <br/>
 <br/>
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
