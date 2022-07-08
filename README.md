@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Lucas Gois!
-<br/>
-<a href='https://www.linkedin.com/in/lucasgois1/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 
+<a href='https://www.linkedin.com/in/lucasgois1/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<br/>
 It's easy for me to learn new technologies and programming languages, I'm passionate about my career and my hobby is solving problems and building solutions! My main stack is backend development but my learning speed allows me to work on basically any challenge that comes my way, fronted or mobile, no matter the problem I will always be able to overcome it!. 
 <br/>
 <br/>
