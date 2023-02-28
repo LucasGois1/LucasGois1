@@ -13,7 +13,7 @@ It's easy for me to learn new technologies and programming languages, I'm passio
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/LucasGois1?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/lucasgois1/) (*Over 50 certificates and counting!*)
-- 🏃🏻‍♂️ &nbsp; When I am free, I watch movies, TV series, play games like AOE IV and Overwatch 2 :P. 
+- 🏃🏻‍♂️ &nbsp; When I am free, I watch movies, TV series, play games like AOE IV and Overwatch 2 😜 ... and study of course! 😅. 
 
 <br>
 
