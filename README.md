@@ -9,16 +9,39 @@ It's easy for me to learn new technologies and programming languages, I'm passio
 ### 🧐 More About Me:
 
 - 🔭 &nbsp; I am currently working at **Invillia**
-- 🌱 &nbsp; I’m currently learning Java, Go lang and C++; 
+- 🌱 &nbsp; I’m currently learning Flutter, Go Lang; 
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/LucasGois1?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/lucasgois1/)
-- 📚 &nbsp; When I am free, I watch movies, TV series, play games like AOEIV :P. 
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/lucasgois1/) (*Over 50 certificates and counting!*)
+- 🏃🏻‍♂️ &nbsp; When I am free, I watch movies, TV series, play games like AOE IV and Overwatch 2 :P. 
+
+<br>
+
+### 📚 Books I've read:
+
+- Clean Architecture (Robert C. Martin)
+- Domain Driven Design (DDD - Red book)
+- Design Patterns (Gang of Four book)
+- Site Reliability Engineering of Google
+- Go in Action
+- Go Programming language
+- Fluent Python
+- Machine Learning
+- Micro Services, ready for production
+- Algorithms
+
+<br>
+
+### 📖 Books I'm reading:
+
+- Programming Rust
 
 <br>
 
 ### 🔨 Languages and Tools:
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://go.dev/" target="_blank"><img align="left" alt="Go" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/go/go.svg"></a>
+<a href="https://flutter.dev/" target="_blank"><img align="left" alt="Flutter" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/main/language_and_tools/square/flutter/flutter.svg"></a>
 <a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
