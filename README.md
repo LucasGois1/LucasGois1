@@ -2,7 +2,13 @@
 
 <a href='https://www.linkedin.com/in/lucasgois1/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <br/>
-It's easy for me to learn new technologies and programming languages, I'm passionate about my career and my hobby is solving problems and building solutions! My main stack is backend development but my learning speed allows me to work on basically any challenge that comes my way, fronted or mobile, no matter the problem I will always be able to overcome it!.
+I am a Backend Developer with a degree in Systems Analysis and Development from UNICESUMAR. I am highly passionate about technology and possess a strong proficiency in various programming languages and tools, including Python, Docker, Kafka, Kubernetes, NodeJS, JavaScript, GoLang, Flutter, and Java.
+
+What sets me apart is my expertise in developing clean and scalable systems using DDD (Domain-Driven Design), TDD (Test-Driven Development), Clean Architecture, and Clean Code principles. I have a deep understanding of these methodologies, which enables me to create efficient and maintainable software solutions.
+
+I have a natural aptitude for learning and I am constantly staying updated with the latest technologies and best practices in software development. This allows me to leverage the most effective tools and techniques in my work.
+
+Overall, my commitment to continuous learning, combined with my solid technical skills and passion for technology, make me a valuable asset as a Software Engineer.
 <br/>
 <br/>
   
