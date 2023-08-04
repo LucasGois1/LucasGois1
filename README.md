@@ -41,6 +41,8 @@ Overall, my commitment to continuous learning, combined with my solid technical 
 ### 📖 Books I'm reading:
 
 - Programming Rust
+- Introduction to Algorithms (CLRS)
+- Low level Programming
 
 <br>
 
