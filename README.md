@@ -14,12 +14,12 @@ Overall, my commitment to continuous learning, combined with my solid technical 
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I am currently working at **Invillia (1 year).** 2+ years of experience with software development 😎. 
-- 🌱 &nbsp; I’m currently learning Flutter and Go Lang.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/LucasGois1?tab=repositories).
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help.
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/lucasgois1/) (*Over 50 certificates and counting!*).
-- 🏃🏻‍♂️ &nbsp; When I am free, I watch movies, TV series, play games like AOE IV and Overwatch 2 😜 ... and study of course! 😅. 
+- 🔭 I have been working at **Invillia for 1 year** and have more than 2 years of experience in software development. 😎
+- 🌱 I'm currently learning Flutter and Go Lang.
+- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/LucasGois1?tab=repositories).
+- 💬 Feel free to ask me about anything related to technology; I am here to help.
+- 📫 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/lucasgois1/) (*With over 50 certificates and counting!*).
+- 🏃🏻‍♂️ When I have free time, I enjoy watching movies, TV series, playing games like AOE IV and Overwatch 2 😜... and, of course, studying! 😅
 
 <br>
 
