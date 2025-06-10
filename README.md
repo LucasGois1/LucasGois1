@@ -14,8 +14,8 @@ Overall, my commitment to continuous learning, combined with my solid technical 
   
 ### 🧐 More About Me:
 
-- 🔭 I have been working at **Invillia for 1 year** and have more than 2 years of experience in software development. 😎
-- 🌱 I'm currently learning Flutter and Go Lang.
+- 🔭 I have 5 years of experience in software development. 😎
+- 🌱 I'm currently learning Go Lang, Kubernetes and Operators.
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/LucasGois1?tab=repositories).
 - 💬 Feel free to ask me about anything related to technology; I am here to help.
 - 📫 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/lucasgois1/) (*With over 50 certificates and counting!*).
@@ -40,9 +40,8 @@ Overall, my commitment to continuous learning, combined with my solid technical 
 
 ### 📖 Books I'm reading:
 
-- Programming Rust
+- Kubernetes in Action
 - Introduction to Algorithms (CLRS)
-- Low level Programming
 
 <br>
 
