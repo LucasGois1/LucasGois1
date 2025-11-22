@@ -37,6 +37,7 @@ For me, software development is more than just writing code. It’s about unders
 - Domain Driven Design (DDD - Red book)
 - Design Patterns (Gang of Four book)
 - Site Reliability Engineering of Google
+- Designing Distributed Systems 2nd Edition (Brendan Burns)
 - Go in Action
 - Go Programming language
 - Fluent Python
