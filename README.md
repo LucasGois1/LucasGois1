@@ -2,13 +2,21 @@
 
 <a href='https://www.linkedin.com/in/lucasgois1/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <br/>
-I am a Backend Developer with a degree in Systems Analysis and Development from UNICESUMAR. I am highly passionate about technology and possess a strong proficiency in various programming languages and tools, including Python, Docker, Kafka, Kubernetes, NodeJS, JavaScript, GoLang, Flutter, and Java.
+🎯 Backend Developer passionate about technology and innovation 🎯
 
-What sets me apart is my expertise in developing clean and scalable systems using DDD (Domain-Driven Design), TDD (Test-Driven Development), Clean Architecture, and Clean Code principles. I have a deep understanding of these methodologies, which enables me to create efficient and maintainable software solutions.
+Graduated in Systems Analysis and Development from UNICESUMAR, I am driven by curiosity and a relentless pursuit of knowledge. With solid experience in various programming languages and cutting-edge technologies such as Python, Docker, Kafka, Kubernetes, NodeJS, JavaScript, GoLang, Flutter, and Java, I am always seeking challenges that allow me to create software solutions that make a difference.
 
-I have a natural aptitude for learning and I am constantly staying updated with the latest technologies and best practices in software development. This allows me to leverage the most effective tools and techniques in my work.
+💡 What's my differentiator? It’s not just about coding; it's about crafting smart solutions. 💡
 
-Overall, my commitment to continuous learning, combined with my solid technical skills and passion for technology, make me a valuable asset as a Software Engineer.
+My specialty lies in developing clean, scalable, and high-performance systems, applying proven methodologies like DDD (Domain-Driven Design), TDD (Test-Driven Development), Clean Architecture, and Clean Code principles. I have a keen eye for code quality and believe that well-designed solutions are the key to efficiency and the continuous evolution of products.
+
+🚀 Aptitude for continuous learning and quick adaptation to new trends. 🚀
+
+The world of technology never stops, and neither do I. I stay up to date with the latest and most effective practices in software development, ready to adopt tools and frameworks that bring the most value to projects. This mindset of constant evolution allows me to anticipate changes and be prepared to make the most of every new opportunity.
+
+🔍 What drives me? Solving complex problems and exceeding expectations. 🔍
+
+For me, software development is more than just writing code. It’s about understanding the business, collaborating with multidisciplinary teams, and delivering solutions that truly add value. I believe that my combination of advanced technical skills and passion for technology sets me apart for projects that demand excellence and innovation.
 <br/>
 <br/>
   
