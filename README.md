@@ -1,7 +1,6 @@
 ## Hey 👋, I'm Lucas Gois!
 
-<a href='https://www.linkedin.com/in/lucasgois1/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<br/>
+
 🎯 Backend Developer passionate about technology and innovation 🎯
 
 Graduated in Systems Analysis and Development from UNICESUMAR, I am driven by curiosity and a relentless pursuit of knowledge. With solid experience in various programming languages and cutting-edge technologies such as Python, Docker, Kafka, Kubernetes, NodeJS, JavaScript, GoLang, Flutter, and Java, I am always seeking challenges that allow me to create software solutions that make a difference.
